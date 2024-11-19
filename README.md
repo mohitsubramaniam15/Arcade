@@ -6,9 +6,11 @@ Mohit's Arcade is a collection of three interactive games coded in Python. This 
 This was my first-ever project, and it holds a special place as a milestone in my programming journey.
 
 ---
+## Results
 <p align="center">
  <img src="readme_files/Arcade.jpeg" alt="Image 1">
 </p>
+
 ---
 ## Features  
 
