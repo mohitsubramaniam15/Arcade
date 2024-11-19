@@ -1,3 +1,5 @@
+![Banner](readme_files/banner.png)
+
 # Welcome to Mohit's Arcade!
 
 ## Description  
